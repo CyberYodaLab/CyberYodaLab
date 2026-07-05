@@ -1,4 +1,4 @@
-# 🛡️ YSEC LAB Central Dashboard
+# 🛡️ YSEC Lab Central Dashboard
 
 Welcome to the operations center. Use `Ctrl+F` + `[Keyword]` to quickly jump to reference materials.
 
