@@ -22,6 +22,7 @@ Welcome to the operations center. Use `Ctrl+F` + `[Keyword]` to quickly jump to 
 | [splunk-admin](https://github.com/ysec-lab/splunk-admin) | SIEM configurations and SPL reference. **Tags:** `SPL`, `alerts`, `dashboards`, `siem` |
 | [cloud-security](https://github.com/ysec-lab/cloud-security) | Cloud posture, AWS/Azure/GCP security configs. **Tags:** `aws`, `azure`, `gcp`, `cspm` |
 | [ai-security](https://github.com/ysec-lab/ai-security) | AI/ML security, LLM vulnerabilities, safe prompts. **Tags:** `llm`, `prompts`, `genai`, `mlsec` |
+| [soar-siem](https://github.com/ysec-lab/soar-siem) | SIEM deployment, log ingestion, and SOAR automation workflows. **Tags:** `soar`, `siem`, `automation`, `playbooks` |
 
 ### ☁️ Infrastructure & DevOps
 
