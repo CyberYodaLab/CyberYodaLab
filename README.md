@@ -21,13 +21,13 @@ Welcome to the operations center. Use `Ctrl+F` + `[Keyword]` to quickly jump to 
 * [🛡️ CYBER-SECURITY](https://github.com/ysec-lab/cyber-security) - *IR, DCO, SOC, Blueteam, Redteam, OSINT, security ops. **Tags:** `IR` `playbook` `tools` `pcap`*
 * [📊 SPLUNK-ADMIN](https://github.com/ysec-lab/splunk-admin) - *SIEM backend configs, dashboards, alerts, and SPL reference guides. **Tags:** `SPL` `alerts` `dashboards` `siem`*
 * [☁️ CLOUD-SECURITY](https://github.com/ysec-lab/cloud-security) - *CSPM and security baselines for AWS, Azure, and GCP. **Tags:** `aws` `azure` `gcp` `cspm`*
-* [🤖 AI-SECURITY](https://github.com/ysec-lab/ai-security) - *AI security boundaries, LLM prompt defenses, and GenAI vulnerability mitigation. **Tags:** `llm` `prompts` `genai` `mlsec`*
-* [🔄 SOAR-SEIM](https://github.com/ysec-lab/soar-seim) - *Log ingestion, SIEM, and SOAR playbooks for orchestrated incident response. **Tags:** `soar` `seim` `automation` `playbooks`*
+* [🤖 AI-SECURITY](https://github.com/ysec-lab/ai-security) - *AI security, LLM prompt, RAG,  and GenAI. **Tags:** `llm` `prompts` `genai` `mlsec`*
+* [🔄 SOAR-SEIM](https://github.com/ysec-lab/soar-seim) - *Log ingestion, SIEM, and SOAR playbooks, orachestration, . **Tags:** `soar` `seim` `automation` `playbooks`*
 
 ### ☁️ Infrastructure & DevOps
 
 * [🖥️ SYS-ADMIN](https://github.com/ysec-lab/sys-admin) - *OS configs, Ubuntu, Redhat, Unix, AD, and server administration. **Tags:** `AD` `linux` `windows` `sysadmin`*
-* [⚙️ DEV-OPS](https://github.com/ysec-lab/dev-ops) - *Multi-stage CI/CD pipelines, GitOps workflows, and automation playbooks. **Tags:** `jenkins` `gitlab` `docker` `kubernetes`*
+* [⚙️ DEV-OPS](https://github.com/ysec-lab/dev-ops) - *CI/CD pipelines, GitOps workflows, and playbooks. **Tags:** `jenkins` `gitlab` `docker` `kubernetes`*
 
 ### 💻 Development & Code
 
