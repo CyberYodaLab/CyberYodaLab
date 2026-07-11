@@ -18,7 +18,7 @@ Welcome to the operations center. Use `Ctrl+F` + `[Keyword]` to quickly jump to 
 
 ### 🔒 Security Operations & Engineering
 
-* [🛡️ CYBER-SECURITY](https://github.com/ysec-lab/cyber-security) - *Incident Response (IR) playbooks, containment tooling, and general security ops. **Tags:** `IR` `playbook` `tools` `pcap`*
+* [🛡️ CYBER-SECURITY](https://github.com/ysec-lab/cyber-security) - *IR, DCO, SOC, Blueteam, Redteam, OSINT, security ops. **Tags:** `IR` `playbook` `tools` `pcap`*
 * [📊 SPLUNK-ADMIN](https://github.com/ysec-lab/splunk-admin) - *SIEM backend configs, dashboards, alerts, and SPL reference guides. **Tags:** `SPL` `alerts` `dashboards` `siem`*
 * [☁️ CLOUD-SECURITY](https://github.com/ysec-lab/cloud-security) - *CSPM and security baselines for AWS, Azure, and GCP. **Tags:** `aws` `azure` `gcp` `cspm`*
 * [🤖 AI-SECURITY](https://github.com/ysec-lab/ai-security) - *AI security boundaries, LLM prompt defenses, and GenAI vulnerability mitigation. **Tags:** `llm` `prompts` `genai` `mlsec`*
